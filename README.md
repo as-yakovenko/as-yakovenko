@@ -1,6 +1,6 @@
 Welcome to my GitHub! 👋
 
-I'm **Alexandr Yakovenko**, a passionate Senior Full-Stack Developer and open source contributor with 15+ years of experience. My focus is on building robust, scalable backend solutions with **PHP/Laravel** and modern frontends with **React/TypeScript**—empowering high-traffic platforms and creating tools for developers.
+I'm **Alexandr Yakovenko**, a passionate Senior Full-Stack Developer and open source contributor with 15+ years of experience. My focus is on building robust, scalable backend solutions with **PHP/Laravel/GraphQL** and modern frontends with **React/TypeScript**—empowering high-traffic platforms and creating tools for developers.
 
 ---
 
@@ -16,23 +16,11 @@ All packages are used in real-world projects, published on Packagist, and active
 
 ---
 
-## 🚀 About Me
-
-- 👨‍💻 **Senior Full-Stack Developer** | PHP/Laravel + React/TypeScript | GraphQL Expert  
-- 🏆 Over 15 years of development experience
-- 🧩 Creator of Laravel packages with 16,000+ downloads  
-- 📈 Proven track record in optimizing and scaling platforms (100K+ monthly users)  
-- 👥 Experienced in leading dev teams from concept to production  
-- 🌱 Always learning and sharing knowledge with the community
-
----
-
 ## 🛠️ Core Expertise
 
 **Backend:** PHP, Laravel, GraphQL (Lighthouse), MySQL, Redis, Queue Management  
 **Frontend:** React, TypeScript, Apollo GraphQL, Ant Design, jQuery  
 **APIs:** Stripe, Zoom, Jira, RESTful/GraphQL APIs  
-**CMS/eCommerce:** WordPress/WooCommerce, Magento, Drupal  
 **DevOps:** AWS, DigitalOcean, Load Balancers, Database Optimization  
 **Tools:** Git, Jira, WebSocket, Pusher  
 
