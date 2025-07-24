@@ -10,7 +10,7 @@ All packages are used in real-world projects, published on Packagist, and active
 
 | Package | Description | Downloads | Latest |
 |---------|-------------|-----------|--------|
-| [**graphql-multi-schema**](https://github.com/as-yakovenko/laravel-lighthouse-graphql-multi-schema)) | Multi-schema support for Lighthouse GraphQL in Laravel | ![](https://img.shields.io/packagist/dt/yakovenko/laravel-lighthouse-graphql-multi-schema?style=flat-square) | ![](https://img.shields.io/packagist/v/yakovenko/laravel-lighthouse-graphql-multi-schema?style=flat-square) |
+| [**graphql-multi-schema**](https://github.com/as-yakovenko/laravel-lighthouse-graphql-multi-schema) | Multi-schema support for Lighthouse GraphQL in Laravel | ![](https://img.shields.io/packagist/dt/yakovenko/laravel-lighthouse-graphql-multi-schema?style=flat-square) | ![](https://img.shields.io/packagist/v/yakovenko/laravel-lighthouse-graphql-multi-schema?style=flat-square) |
 | [**laravel-backup-db**](https://github.com/as-yakovenko/laravel-backup-db) | Simple Laravel DB backup command with auto-cleanup | ![](https://img.shields.io/packagist/dt/yakovenko/laravel-backup-db?style=flat-square) | ![](https://img.shields.io/packagist/v/yakovenko/laravel-backup-db?style=flat-square) |
 | [**laravel-class-generator**](https://github.com/as-yakovenko/laravel-class-generator) | Generate Service, Helper, Trait, and Utility classes | ![](https://img.shields.io/packagist/dt/yakovenko/laravel-class-generator?style=flat-square) | ![](https://img.shields.io/packagist/v/yakovenko/laravel-class-generator?style=flat-square) |
 
