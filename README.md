@@ -34,7 +34,7 @@ All packages are used in real-world projects, published on Packagist, and active
 
 ---
 
-> “Building clean, efficient, and scalable solutions—one commit at a time.”  
+> “Building clean, efficient, and scalable solutions - one commit at a time.”  
 
 <!--
 Profile views, GitHub stats, or fun widgets can be added here if desired.
