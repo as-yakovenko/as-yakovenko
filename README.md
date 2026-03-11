@@ -1,6 +1,6 @@
 Welcome to my GitHub! 👋
 
-I'm **Alexandr Yakovenko**, a passionate **Senior Software Engineer** and open source contributor with 15+ years of experience. My focus is on building robust, scalable backend solutions with **PHP/Laravel/GraphQL** and modern frontends with **React/TypeScript**—empowering high-traffic platforms and creating tools for developers.
+I'm **Alexandr Yakovenko**, a passionate **Senior Software Engineer** and open source contributor with 15+ years of experience. My focus is on building robust, scalable backend solutions with **PHP/Laravel/GraphQL** and modern frontends with **React/TypeScript** - empowering high-traffic platforms and creating tools for developers.
 
 ---
 
